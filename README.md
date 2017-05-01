@@ -5,4 +5,4 @@ comment 2
 
 [Swaroop](http://www.google.fr/) 
 
-Markup :  ___Swaroopt___
+Markup :  ___Swaroop___
